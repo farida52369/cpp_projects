@@ -16,4 +16,4 @@
   - Solve The Game (The solution depends on Backtracking Algorithm)
    
 
-![The Sudoku Window](/screen.png "Sudoku Window")
+![The Sudoku Window](/Sudoku/screen.png "Sudoku Window")
